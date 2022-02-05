@@ -1,4 +1,4 @@
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
 Ezekeil is an Ice Cream Seller. He owns an Ice Cream Business. He also doubles as a Data Scientist who plays around with models. He decided to create a 
 model that could predict the daily revenue in dollars based on the outside air temperature(degC). He decides that a Linear Regression model might me a 
